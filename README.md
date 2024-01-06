@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm improving myself as a Full-Stack Developer, and also interested in IOS and Android development<br>Baskent University - Computer Programming 
+⭐️ I'm improving myself as a Full-Stack Developer, and also interested in IOS and Android development<br>🎓 Baskent University - Computer Programming 
 
 
 ## 🌐 Socials:
